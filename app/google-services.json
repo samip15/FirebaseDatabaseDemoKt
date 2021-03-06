@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "353836076875",
+    "project_id": "fir-demokt",
+    "storage_bucket": "fir-demokt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353836076875:android:2f6fa8cfbf02a2c2f4e2ce",
+        "android_client_info": {
+          "package_name": "com.sam.firebasedemokt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353836076875-5rq8og9b20n6rsd0k1a90i5gj797nv6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcIebKVb4nOdrvc3q1zgmiXs-Mz2PlWB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353836076875-5rq8og9b20n6rsd0k1a90i5gj797nv6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
